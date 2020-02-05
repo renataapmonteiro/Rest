@@ -1,0 +1,16 @@
+ccd.icon {
+	font-size: 2em;
+}
+
+/* body {
+	background: pink;
+}
+ */
+.ui.segment{
+    margin-top: 7em;
+	width: 700px;
+}
+
+#delete{
+	display: inline;
+}
